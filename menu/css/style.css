@@ -1,0 +1,64 @@
+section {
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+}
+
+.mine {
+	background-color: lime;
+}
+
+.news {
+	background-color: blue;
+}
+
+.contacts {
+	background-color: red;
+}
+
+.portfolio {
+	background-color: yellow;
+}
+
+.wrapper {
+	position: relative;
+	overflow-x: hidden;
+}
+
+.menu {
+	position: fixed;
+	left: 0;top: 0;
+	width: 30%;
+	height: 100vh;
+	display: flex;
+	-ms-align-items: center;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff;
+}
+
+.list {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 50%;
+	flex-direction: column;
+
+}
+
+.list a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+
+.menu-btn {
+	width: 30px;
+	height: 30px;
+	background-color: #333;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
