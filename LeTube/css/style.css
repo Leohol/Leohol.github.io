@@ -1,0 +1,24 @@
+html {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.gray {
+    color: gray;
+}
+
+.sb {
+    display: inline-block;
+}
+
+.video {
+    
+}
+
+.inline-block {
+    display: inline-block;
+}
