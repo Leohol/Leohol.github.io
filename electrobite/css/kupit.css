@@ -1,0 +1,28 @@
+.netvnalicii {
+	color: red;
+}
+
+* {
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: gray;
+	font-size: 22px;
+}
+
+.red {
+	color: red;
+}
+
+.grey {
+	color: white;
+	background-color: #c2fc14;
+	font-size: 50px;
+	border: none;
+}
+
+.obomni {
+	background-color: #c2fc14;
+}

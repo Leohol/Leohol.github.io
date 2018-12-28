@@ -1,0 +1,318 @@
+.footer-feedback-link:focus,.footer-feedback-link:hover,.logo-owox-link:focus,.logo-owox-link:hover {
+ text-decoration:none
+}
+.body-footer {
+ background:#f5f5f5;
+ border-top:1px solid #c3c3c3;
+ box-shadow:inset 0 1px 6px 0 #d8d8d8;
+ height:22em;
+ margin-top:-22em;
+ padding:1.15385em 0 0;
+ position:relative;
+ z-index:1;
+ -webkit-box-sizing:border-box;
+ box-sizing:border-box
+}
+.body-footer:after {
+ content:'';
+ display:block;
+ position:absolute;
+ left:0;
+ right:0;
+ bottom:0;
+ height:15px;
+ background:#f5f5f5
+}
+@media screen and (max-width:1200px) {
+ .footer-col-second {
+  width:18.75%
+ }
+ .footer-col-fourth {
+  width:31.25%
+ }
+ .footer-col-application {
+  width:43.75%
+ }
+}
+.copy {
+ font-size:.92308em;
+ line-height:1.33333em;
+ margin-bottom:.25em;
+ font-style:normal
+}
+.copy-remark {
+ font-size:.84615em;
+ line-height:1.45455em;
+ color:#c4c4c4;
+ margin-bottom:1.15385em
+}
+.schedule-l {
+ color:#797878
+}
+.schedule-l-i {
+ line-height:1.23077em
+}
+.schedule-l-i:first-child {
+ padding-bottom:.23077em
+}
+.footer-mobile-link {
+ border:1px solid #dadade;
+ border-radius:3px;
+ display:inline-block;
+ height:2.61538em;
+ line-height:2.61538em;
+ padding:0 15px 0 29px;
+ margin-right:40px;
+ z-index:5
+}
+.footer-mobile-link:before {
+ background-position:-881px -237px;
+ width:10px;
+ height:18px;
+ top:50%;
+ margin-top:-10px;
+ left:10px
+}
+.footer-l {
+ margin-bottom:2em
+}
+.footer-l-i {
+ margin-bottom:.53846em
+}
+.footer-feedback-link {
+ padding-right:18px
+}
+.footer-feedback-link:before {
+ background-position:-291px -479px;
+ width:13px;
+ height:13px;
+ top:50%;
+ margin-top:-7px;
+ right:0
+}
+.footer-feedback-link:hover:before {
+ background-position:-364px -479px
+}
+.logo-owox-link {
+ color:#797878;
+ font-size:.84615em;
+ line-height:1.45455em;
+ display:block;
+ float:left
+}
+.logo-owox-link:link,.logo-owox-link:visited {
+ color:#797878
+}
+.logo-owox-slogan,.logo-owox-support-time {
+ display:block
+}
+.logo-owox-support-time {
+ color:#9e9e9e;
+ margin-bottom:.54545em;
+ white-space:nowrap
+}
+.logo-owox-slogan {
+ margin-top:.54545em
+}
+.logo-owox-icon {
+ display:block;
+ background-position:-558px -127px;
+ width:106px;
+ height:20px
+}
+.footer-social {
+ margin-top:-1.53846em
+}
+.footer-application-title,.footer-social-title {
+ color:#797878;
+ font-weight:400;
+ margin-bottom:.46154em
+}
+.footer-application-title {
+ margin-bottom:.53846em
+}
+.social-i {
+ float:left;
+ margin:0 5px 5px 0
+}
+@media screen and (max-width:1100px) {
+ .social-i {
+  margin:0 4px 5px 0
+ }
+ .social-i:last-child {
+  margin-right:0
+ }
+}
+.social-icon-link {
+ display:block;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-vk:before {
+ background-position:-201px -85px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-vk:hover:before {
+ background-position:-382px -754px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-fb:before {
+ background-position:-502px -754px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-fb:hover:before {
+ background-position:-518px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-ok:before {
+ background-position:-668px -794px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-ok:hover:before {
+ background-position:-638px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-tw:before {
+ background-position:-608px -794px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-tw:hover:before {
+ background-position:-578px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-gp:before {
+ background-position:-322px -754px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-gp:hover:before {
+ background-position:-758px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-yt:before {
+ background-position:-352px -754px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-yt:hover:before {
+ background-position:-488px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-in:before {
+ background-position:-728px -794px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-in:hover:before {
+ background-position:-698px -794px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-vb:before {
+ background-position:-548px -794px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-vb:hover:before {
+ background-position:-292px -754px;
+ width:28px;
+ height:28px
+}
+.social-icon-link-middle-email:before {
+ background-position:-442px -754px;
+ width:28px;
+ height:28px;
+ left:0
+}
+.social-icon-link-middle-email:hover:before {
+ background-position:-472px -754px;
+ width:28px;
+ height:28px
+}
+.application-i {
+ float:left;
+ margin:0 .53846em .53846em 0
+}
+.application-icon-app {
+ background-position:-558px -370px;
+ width:101px;
+ height:36px
+}
+.application-icon-app:hover {
+ background-position:-558px -408px;
+ width:101px;
+ height:36px
+}
+.application-icon-google {
+ background-position:-127px -397px;
+ width:121px;
+ height:36px
+}
+.application-icon-google:hover {
+ background-position:-250px -397px;
+ width:121px;
+ height:36px
+}
+.application-icon-windows {
+ background-position:-558px -446px;
+ width:94px;
+ height:36px
+}
+.application-icon-windows:hover {
+ background-position:-558px -484px;
+ width:94px;
+ height:36px
+}
+.payment-methods-link {
+ display:inline-block;
+ vertical-align:middle
+}
+.payment-methods-link:first-child {
+ margin-right:6px
+}
+.payment-methods-icon-visa {
+ background-position:-247px -435px;
+ width:82px;
+ height:36px
+}
+.payment-methods-icon-mastercard {
+ background-position:-668px -559px;
+ width:87px;
+ height:28px
+}
+.footer-address {
+ display:table;
+ min-height:80px;
+ margin-top:5px;
+ font-size:13px;
+ line-height:16px
+}
+.footer-address-inner {
+ display:table-cell;
+ vertical-align:middle
+}
+.footer-address-indent {
+ height:26em
+}
+.footer-address-text {
+ font-size:13px;
+ line-height:17px
+}

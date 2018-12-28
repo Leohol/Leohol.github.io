@@ -1,0 +1,8 @@
+
+.out_of_stock .detail-status { margin-bottom: 24px !important; }
+.detail-lable-out_of_stock:before { content:''; width: 122px; height: 45px; display: block; background: url(https://i2.rozetka.ua/images/10/10488.png) no-repeat center; }
+.detail-lable-out_of_stock img { display: none; }
+.g-i-lable-out_of_stock:before { content: ''; width: 64px; height: 24px; display: block; background: url(https://i2.rozetka.ua/images/10/10488.png) no-repeat center; background-size: cover; }
+.g-i-lable-out_of_stock img { display: none; }
+.viewed-lable-out_of_stock:before { content: ''; width: 64px; height: 24px; display: block; background: url(https://i2.rozetka.ua/images/10/10488.png) no-repeat center; background-size: cover; }
+.viewed-lable-out_of_stock img { display: none; }

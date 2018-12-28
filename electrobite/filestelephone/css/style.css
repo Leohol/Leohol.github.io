@@ -1,0 +1,38 @@
+html {
+	font-family: sans-serif;
+}
+
+a {
+	color: #8c8a8a;
+	text-decoration: none;
+}
+
+h3 {
+	color: #a8a8a8;
+}
+
+.haracteristeki {
+	color: #4b5e47;
+}
+
+.opushar {
+	color: #262626;
+}
+
+
+
+
+
+.knopka {
+	background-color: #a7d820;
+	display: inline-block;
+	font-size: 35px;
+}
+
+.white {
+	color: #fff;
+}
+
+.obomni {
+	background-color: #c2fc14;
+}
